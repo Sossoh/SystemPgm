@@ -5,6 +5,8 @@
 
 첫번째 실습
 1. vi f1
+
+ ```c
 #include<stdio.h>
 
 int main(){
@@ -15,6 +17,7 @@ int main(){
         fclose(fp); // 파일 열었으니 닫기
         return 0;
 }
+```
 
 2. gcc f1 
 3.  ls 
@@ -39,6 +42,8 @@ strace는 디버깅에 사용되는 도구로 널리 알려져 있습니다.
  
 두번째 실습
 1. vi bok.c
+
+```c
  #include <unistd.h>
 #include <fcntl.h>
 #include <stdio.h>
@@ -49,22 +54,18 @@ int main() {
         // perror("open");
         return 1; // 파일을 열지 못하면 오류 메시지를 출력하지 않고 프로그램을 종료합니다.
     }
-
     int fd2 = dup(fd1); // 파일 디스크립터 3을 복제하여 새로운 파일 디스크립터 4를 만듭니다.
     if (fd2 == -1) {
         perror("dup");
         close(fd1); // 파일 디스크립터 3를 닫습니다.
         return 1;
     }
-
     printf("File descriptors: %d, %d\n", fd1, fd2);
-
     close(fd1);
     close(fd2);
-
     return 0;
 }
-
+```
 2. make bok
 3. ./bok
 4. strace bok 
