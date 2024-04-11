@@ -4,7 +4,7 @@
 </h1>
 
 첫번째 실습
-1. vi f1
+1. 실습파일 1
 
  ```c
 #include<stdio.h>
@@ -41,7 +41,7 @@ strace는 디버깅에 사용되는 도구로 널리 알려져 있습니다.
      man 2 write
  
 두번째 실습
-1. vi bok.c
+1. 실습파일 2
 
 ```c
  #include <unistd.h>
