@@ -11,3 +11,6 @@ gcc example.c -o example: 이 명령어는 example.c 파일을 컴파일하고, 
 <li>
   make example = gcc example.c -o example
 </li>
+
+<br>
+교수님 pdf
