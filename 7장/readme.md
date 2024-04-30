@@ -3,18 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>7장</title>
-     <style>
-      .container {
-    display: flex;
-    justify-content: center; /* 가로 방향 중앙 정렬 */
-    align-items: center; /* 세로 방향 중앙 정렬 */
-    height: 100vh; /* 화면 전체 높이를 차지하도록 설정 */
-}
-        ul {
-            list-style-type: disc; /* 점으로 목록 항목을 나타냄 */
-        }
-    </style>
+    <h1>7장</h1>
 </head>
 <body>
     <div class="container">
