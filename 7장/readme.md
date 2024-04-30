@@ -84,8 +84,8 @@
                 디렉터리의 내용은 디렉터리 엔트리(파일이름, i-노드 번호)<br>
             </ul>
 <img width="587" alt="스크린샷 2024-04-30 184313" src="https://github.com/Sossoh/SystemPgm/assets/128332587/8911df7b-0683-4db4-8453-a4fec6dae5a8"><br>
-        <h2>링크의 구<img width="495" alt="스크린샷 2024-04-30 184515" src="https://github.com/Sossoh/SystemPgm/assets/128332587/da51d36f-0790-4fa2-93db-3e3838704787">
-현</h2><br>
+        <h2>링크의 구현</h2>
+            <img width="495" alt="스크린샷 2024-04-30 184515" src="https://github.com/Sossoh/SystemPgm/assets/128332587/da51d36f-0790-4fa2-93db-3e3838704787"><br>
  <h4>하드 링크 vs 심볼릭 링크</h4>
  <ul>
      <li> 하드 링크(hard link)</li>
