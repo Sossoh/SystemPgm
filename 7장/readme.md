@@ -8,7 +8,7 @@
 <body>
     <div class="container">
         <div class="content">
-            <h1>파일 시스템 구조</h1>
+            <h4>파일 시스템 구조</h4>
            <ul>
         <li>부트블록</li>
         파일 시스템 시작부에 위치하고 보통 첫 번째 섹터를 차지
