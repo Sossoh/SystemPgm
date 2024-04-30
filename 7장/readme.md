@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<img width="587" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/e6fd7940-b20d-4443-80e0-02c985107312"><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -73,6 +73,33 @@
             <img width="511" alt="스크린샷 2024-04-30 183717" src="https://github.com/Sossoh/SystemPgm/assets/128332587/38c118aa-9c0d-4e3e-8b82-704e83a04f2e">
             <br>
 <img width="512" alt="스크린샷 2024-04-30 183726" src="https://github.com/Sossoh/SystemPgm/assets/128332587/0fc60ff2-3291-4a61-ada2-c65a95144ca7"><br>
+          <h2>디렉토리 구현</h2>
+            <img width="564" alt="스크린샷 2024-04-30 184059" src="https://github.com/Sossoh/SystemPgm/assets/128332587/070f9ae0-8de9-4456-b0f8-87e095bda232"><br>
+            <ul>
+                <li>파일 시스템 구조를 보자.</li>
+                디렉토리를 위한 구조는 따로 없다.<br>
+                <li>파일 시스템 내에서 디렉토리를 어떻게 구현할 수 있을까?</li>
+                디렉터리도 일종의 파일로 다른 파일처럼 구현된다. <br>
+                디렉터리도 다른 파일처럼 하나의 i-노드로 표현된다. <br>
+                디렉터리의 내용은 디렉터리 엔트리(파일이름, i-노드 번호)<br>
+            </ul>
+<img width="587" alt="스크린샷 2024-04-30 184313" src="https://github.com/Sossoh/SystemPgm/assets/128332587/8911df7b-0683-4db4-8453-a4fec6dae5a8"><br>
+        <h2>링크의 구<img width="495" alt="스크린샷 2024-04-30 184515" src="https://github.com/Sossoh/SystemPgm/assets/128332587/da51d36f-0790-4fa2-93db-3e3838704787">
+현</h2><br>
+ <h4>하드 링크 vs 심볼릭 링크</h4>
+ <ul>
+     <li> 하드 링크(hard link)</li>
+     지금까지 살펴본 링크<br>
+     파일 시스템 내의 i-노드를 가리키므로<br>
+     같은 파일 시스템 내에서만 사용될 수 있다<br>
+     <li>심볼릭 링크(symbolic link)</li>
+     소프트 링크(soft link)<br>
+     실제 파일의 경로명 저장하고 있는 링크<br>
+     파일에 대한 간접적인 포인터 역할을 한다. <br>
+     다른 파일 시스템에 있는 파일도 링크할 수 있다. <br>
+
+ </ul>
+        
             
 </body>
 </html>
