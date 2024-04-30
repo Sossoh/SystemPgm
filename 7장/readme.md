@@ -33,7 +33,7 @@
                 파일 소유자 및 그룹
                 접근 및 갱신 시간
                 데이터 블록에 대한 포인터(주소) 등
-<img width="456" alt="스크린샷 2024-04-30 182438" src="https://github.com/Sossoh/SystemPgm/assets/128332587/77a602f0-b083-40bd-9667-a4cd50a7eb9a">
+<img width="456" alt="스크린샷 2024-04-30 182438" src="https://github.com/Sossoh/SystemPgm/assets/128332587/77a602f0-b083-40bd-9667-a4cd50a7eb9a"><br>
         <h4>블록 포인터</h4>
         <ul>
         <li>데이터 블록에 대한 포인터</li>
@@ -45,7 +45,7 @@
         </ul>       
             </ul>
             <h4>파일 입출력 구현</h4>
-            <img width="516" alt="스크린샷 2024-04-30 182833" src="https://github.com/Sossoh/SystemPgm/assets/128332587/e667c90b-fcbb-4f6a-90d9-f8ad6f5dfd66">
+            <img width="516" alt="스크린샷 2024-04-30 182833" src="https://github.com/Sossoh/SystemPgm/assets/128332587/e667c90b-fcbb-4f6a-90d9-f8ad6f5dfd66"><br>
             <ul>
                 <li>파일 입출력 구현을 위한 커널 내 자료구조</li>
                 파일 디스크립터 배열(Fd array)<br>
