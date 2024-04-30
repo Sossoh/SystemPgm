@@ -1,4 +1,4 @@
-<img width="587" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/e6fd7940-b20d-4443-80e0-02c985107312"><!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
