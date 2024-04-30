@@ -74,7 +74,5 @@
             <br>
 <img width="512" alt="스크린샷 2024-04-30 183726" src="https://github.com/Sossoh/SystemPgm/assets/128332587/0fc60ff2-3291-4a61-ada2-c65a95144ca7"><br>
             
-        </div>
-    </div>
 </body>
 </html>
