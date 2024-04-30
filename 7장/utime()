@@ -1,3 +1,6 @@
+#include <sys/types.h>
+#include <utime.h>
+int utime (const char *filename, const struct utimbuf *times )
 struct utimbuf {
   time_t actime; /* access time */
   time_t modtime; /* modification time */
