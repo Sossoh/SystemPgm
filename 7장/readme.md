@@ -69,6 +69,16 @@
                 >>>한 파일에 하나의 i-node<br>
                 >>>하나의 파일에 대한 정보 저장(소유자, 크기,파일이 위치한 장치,파일 내용 디스크 블럭에 대한 포인터)<br>
             </ul>
+            <h4>파일 상태</h4>
+            <h5>
+                파일에 대한 모든 정보<br>
+                블록수, 파일 타입, 사용 권한, 링크수, 파일 소유자의 사용자 ID,
+                그룹 ID, 파일 크기, 최종 수정 시간 등<br>
+            </h5>
+            <img width="511" alt="스크린샷 2024-04-30 183717" src="https://github.com/Sossoh/SystemPgm/assets/128332587/38c118aa-9c0d-4e3e-8b82-704e83a04f2e">
+            <br>
+<img width="512" alt="스크린샷 2024-04-30 183726" src="https://github.com/Sossoh/SystemPgm/assets/128332587/0fc60ff2-3291-4a61-ada2-c65a95144ca7"><br>
+            
         </div>
     </div>
 </body>
