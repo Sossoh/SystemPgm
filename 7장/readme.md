@@ -48,26 +48,26 @@
             <img width="516" alt="스크린샷 2024-04-30 182833" src="https://github.com/Sossoh/SystemPgm/assets/128332587/e667c90b-fcbb-4f6a-90d9-f8ad6f5dfd66">
             <ul>
                 <li>파일 입출력 구현을 위한 커널 내 자료구조</li>
-                파일 디스크립터 배열(Fd array)
-                >>프로세스 당 하나씩 갖는다.
-                >>파일 디스크립터 배열(열린 파일 테이블의 엔트리를 가리킨다.)
-                >>파일 디스크립터( 파일 디스크립터 배열의 인덱스)
-                열린 파일 테이블(Open File Table)
-                >>파일 테이블 (file table)
-                >>>커널 자료구조
-                >>>열려진 모든 파일 목록
-                >>파일 테이블 항목 (file table entry)
-                >>>파일 상태 플래그(read, write, append, sync, nonblocking,…)
-                >>>파일의 현재 위치 (current file offset)
-                >>>i-node에 대한 포인터
-                동적 i-노드 테이블(Active i-node table)
-                >>동적 i-노드 테이블
-                >>>커널 내의 자료 구조
-                >>>Open 된 파일들의 i-node를 저장하는 테이블
-                >>i-노드
-                >>>하드 디스크에 저장되어 있는 파일에 대한 자료구조
-                >>>한 파일에 하나의 i-node
-                >>>하나의 파일에 대한 정보 저장(소유자, 크기,파일이 위치한 장치,파일 내용 디스크 블럭에 대한 포인터)
+                파일 디스크립터 배열(Fd array)<br>
+                >>프로세스 당 하나씩 갖는다.<br>
+                >>파일 디스크립터 배열(열린 파일 테이블의 엔트리를 가리킨다.)<br>
+                >>파일 디스크립터( 파일 디스크립터 배열의 인덱스)<br>
+                열린 파일 테이블(Open File Table)<br>
+                >>파일 테이블 (file table)<br>
+                >>>커널 자료구조<br>
+                >>>열려진 모든 파일 목록<br>
+                >>파일 테이블 항목 (file table entry)<br>
+                >>>파일 상태 플래그(read, write, append, sync, nonblocking,…)<br>
+                >>>파일의 현재 위치 (current file offset)<br>
+                >>>i-node에 대한 포인터<br>
+                동적 i-노드 테이블(Active i-node table)<br>
+                >>동적 i-노드 테이블<br>
+                >>>커널 내의 자료 구조<br>
+                >>>Open 된 파일들의 i-node를 저장하는 테이블<br>
+                >>i-노드<br>
+                >>>하드 디스크에 저장되어 있는 파일에 대한 자료구조<br>
+                >>>한 파일에 하나의 i-node<br>
+                >>>하나의 파일에 대한 정보 저장(소유자, 크기,파일이 위치한 장치,파일 내용 디스크 블럭에 대한 포인터)<br>
             </ul>
         </div>
     </div>
