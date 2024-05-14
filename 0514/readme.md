@@ -45,7 +45,11 @@ run은 이렇게 생김
 test 7<br>
 <img width="242" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/660171a9-cae3-4fb0-9f17-a4b676e1dd50">
 <br>
-
 <img width="362" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/d4a8b794-35ae-4d07-8d60-fd393e3dad3e">
 <br>
+test8
+<br>
+<img width="240" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/f1291351-e20d-4239-a1d1-87b0748be423">
+<br>
+<img width="284" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/83ea061d-c5b9-4423-bda5-938639fd2acd">
 
