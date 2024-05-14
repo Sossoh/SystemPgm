@@ -42,7 +42,8 @@ run은 이렇게 생김
 <br>
 <img width="132" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/5ea48102-4cf2-4382-8be2-a9fec0b59d57">
 <br>
-test 7<br>
+test 7
+<br>
 <img width="242" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/660171a9-cae3-4fb0-9f17-a4b676e1dd50">
 <br>
 <img width="362" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/d4a8b794-35ae-4d07-8d60-fd393e3dad3e">
