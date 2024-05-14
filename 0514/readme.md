@@ -46,7 +46,8 @@ test 7
 <br>
 <img width="242" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/660171a9-cae3-4fb0-9f17-a4b676e1dd50">
 <br>
-<img width="362" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/d4a8b794-35ae-4d07-8d60-fd393e3dad3e">
+<img width="244" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/193a230e-1355-465e-9b1b-d92165232b5d">
+
 <br>
 test8
 <br>
