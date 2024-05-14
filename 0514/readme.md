@@ -1,4 +1,4 @@
-<h1>실습</h1>
+<img width="312" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/bc971ad7-97de-46b2-a07b-891a15720a92"><img width="194" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/731ddba0-1272-478a-8997-5687fa928c8d"><h1>실습</h1>
 <h4>Linux Command Line and Shell Scripting Second Edition</h4>
 <h4>IT-ebboks에서 들고온 pdf</h4>
 ch 10
@@ -99,4 +99,53 @@ test14
 <img width="290" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/b5758de9-86df-46b2-b69c-50c9e974b6b0">
 <br>
 test21
+<br>
+<img width="194" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/c0b7b86a-7ad7-4bf5-ad96-8e4ca7094f6f">
+<br>
+<img width="251" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/d2524db3-5ff0-4e19-89c2-093d29e5751f">
+<br>
+test 22
+<br>
+<img width="312" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/1a5ba1ff-9d93-47b3-b757-7218b3f88602">
+<br>
+<img width="321" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/561b1d3c-bdc7-4128-a009-79bfc80dbf94">
+<br>
+test 23
+<br>
+<img width="509" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/3c86f1da-a859-4712-a797-19a4b0f3dde5">
+<br>
+<img width="235" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/0bd97b30-53ee-43f1-ae29-c394146ec00a">
+<br>
+test 24
+<br>
+<img width="417" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/d70436a3-9e14-4ca8-96a4-1c9912d27e3a">
+<br>
+<img width="386" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/1876a57c-8cf8-465d-a490-e34704a00956">
+<br>
+test 25
+<br>
+<img width="362" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/b42100d6-eca6-4625-ace1-6487675a3ea7">
+<br>
+<img width="405" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/db2512e3-445e-4cf3-874e-4cb9776747cf">
+<br>
+test 26
+<br>
+<img width="406" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/0754ef81-da80-49be-b97f-d9f5982d7e05">
+<br>
+<img width="397" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/41f88bc2-1605-4a2b-a591-9ebd9c780cec">
+<br>
+test 27
+<br>
+<img width="263" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/02e8155c-bef9-4378-a728-eaf5ac30eee7">
+<br>
+<img width="235" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/cb49eb09-b33d-42bc-9fb8-4863f9882605">
+<br>
+test 28
+<br>
+<img width="235" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/3e5e5e37-d48c-4d6a-822f-52a40dd9c6e5">
+
+<br>
+<img width="235" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/cc29594b-492f-4adc-b79c-a392ab5fd77f">
+
+
 
