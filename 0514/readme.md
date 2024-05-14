@@ -32,6 +32,13 @@ $변수
 <br>
 <img width="356" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/378983fc-52e7-4571-bf6b-28158dd61248">
 <br>
+test5
+<br>
+<img width="272" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/1127f1cd-82a2-4f40-8a1c-b6a795b884d5">
+<br>
+<img width="383" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/1f5a860f-cb69-4f17-bb24-32a141544ff6">
+
+<br>
 test6
 <br>
 <img width="285" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/dd470ff8-207c-4a06-a845-3df423881dab">
