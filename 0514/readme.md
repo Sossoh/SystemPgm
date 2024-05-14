@@ -38,5 +38,8 @@ test6
 <br>
 <img width="254" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/c4254073-4409-4aa3-ab58-a677905ddf58">
 <br>
-
+run은 이렇게 생김
+<br>
+<img width="132" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/5ea48102-4cf2-4382-8be2-a9fec0b59d57">
+<br>
 
