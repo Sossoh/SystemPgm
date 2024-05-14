@@ -1,4 +1,4 @@
-<img width="312" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/bc971ad7-97de-46b2-a07b-891a15720a92"><img width="194" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/731ddba0-1272-478a-8997-5687fa928c8d"><h1>실습</h1>
+<h1>실습</h1>
 <h4>Linux Command Line and Shell Scripting Second Edition</h4>
 <h4>IT-ebboks에서 들고온 pdf</h4>
 ch 10
