@@ -61,4 +61,42 @@ test8
 <img width="240" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/f1291351-e20d-4239-a1d1-87b0748be423">
 <br>
 <img width="284" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/83ea061d-c5b9-4423-bda5-938639fd2acd">
+<br>
+test 9
+<br>
+<img width="290" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/c2c3033d-ab1b-4e37-9582-d2f43b92c86a">
+<br>
+<img width="327" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/ab4cee64-8406-4c6b-9098-fb96774a99b8">
+<br>
+다운로드 해야해서 연산 결과가 나오지 않음
+<br>
+test10
+<br>
+<img width="302" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/108aca59-0c8d-4c47-8f00-c0372927e9fe">
+<br>
+<img width="290" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/532b2a6b-fc63-4e2d-b5a5-d37791c12d28">
+<br>
+test11
+<br>
+<img width="293" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/94d3b208-52bf-425d-9593-42e8654f9203">
+<br>
+<img width="306" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/e4d074ee-37a7-43fc-b7c6-73614e17012a">
+<br>
+test 12
+<br>
+<img width="356" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/b6199b9d-1fab-4e7c-af72-8fff9a746d17">
+<br>
+test 13
+<br>
+<img width="346" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/8690a1d0-a04d-4ec8-b86f-82a385746f64">
+<br>
+<img width="221" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/fdc50ea4-c60d-412e-94a2-74a8ce924161">
+<br>
+test14
+<br>
+<img width="211" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/706b539a-787a-47f9-b7e3-030b51daebd5">
+<br>
+<img width="290" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/b5758de9-86df-46b2-b69c-50c9e974b6b0">
+<br>
+test21
 
