@@ -1,4 +1,4 @@
-<h1>실습</h1>
+<img width="356" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/064f8880-5370-434b-ba02-d0d8a60e7464"><h1>실습</h1>
 <h4>Linux Command Line and Shell Scripting Second Edition</h4>
 <h4>IT-ebboks에서 들고온 pdf</h4>
 226~
@@ -27,6 +27,8 @@ test4
 <img width="329" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/a8b970d6-776f-413c-a3ed-677c495f9120">
 <br>
 <img width="374" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/3467195f-b102-4217-937b-bad67d18fdc3">
+<br>
+$변수
 <br>
 <img width="356" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/378983fc-52e7-4571-bf6b-28158dd61248">
 <br>
