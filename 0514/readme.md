@@ -1,7 +1,7 @@
 <h1>실습</h1>
 <h4>Linux Command Line and Shell Scripting Second Edition</h4>
 <h4>IT-ebboks에서 들고온 pdf</h4>
-226~
+ch 10
 <br>
 <img width="557" alt="스크린샷 2024-05-14 171544" src="https://github.com/Sossoh/SystemPgm/assets/128332587/ca84e3b4-1afa-4272-a171-af3e5d633a22">
 <br>
