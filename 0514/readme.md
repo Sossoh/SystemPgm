@@ -16,3 +16,7 @@
 <br>
 <img width="257" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/4863dfb9-65bb-4f6e-ada6-8b46b7fffde1">
 체인지 모드를 통해서 실행
+<br>
+<img width="377" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/cb26749d-4106-4606-810d-c8b7c81f15c5">
+<br>
+“ 를 " 로 변경
