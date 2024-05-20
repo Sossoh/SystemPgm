@@ -9,3 +9,5 @@
 
 <h20> <b>교수님의 pdf파일들<b> 참조 <h20>
 
+0514실습 참고 자료
+<img width="225" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/be63dd53-2498-426c-a28a-c45b7fa4fda1">
