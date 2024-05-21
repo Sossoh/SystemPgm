@@ -17,3 +17,6 @@
             </ul>
         </li>
     </ul>
+
+<h1>100초동안 기다리기</h1><br>
+<img width="410" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/971de452-03a0-475e-a9d6-750a79e03776">
