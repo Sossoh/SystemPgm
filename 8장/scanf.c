@@ -1,4 +1,4 @@
-#includei<stdio.h>
+#include<stdio.h>
 int main(){
         int numinput;
         char charinput;
