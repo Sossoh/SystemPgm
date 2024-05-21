@@ -1,11 +1,10 @@
-#include<stdio.h>
+#includei<stdio.h>
 int main(){
         int numinput;
         char charinput;
         scanf("%d",&numinput);
-        scanf("%d\n",numinput);
+        printf("%d\n",numinput);
         scanf("%c",&charinput);
-        iscanf("%c",charinput);
+        printf("%c",charinput);
         return 0;
 }
-~   
