@@ -27,3 +27,21 @@
 <img width="416" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/f92b2f2d-fba7-4984-8c3f-b7c5903a9510">
 
 
+
+ <h2> 프로그램 종료 </h2>
+    <ul>
+        <li>
+            <strong> 정상 종료(normal termination)</strong>
+            <ul>
+                <li> main() 실행을 마치고 리턴하면 C 시작 루틴은 이리턴값을가지고exit()을호출</li>
+                <li>프로그램 내에서 직접 exit()을 호</li>
+            </ul>
+        </li>
+        <li>
+            <strong>비정상종료(abnormal termination)</strong>
+            <ul>
+                <li><strong>abort() </strong> 프로세스에SIGABRT 시그널을 보내어 프로세스를비정상적으로종료</li>
+                <li>시그널에의한종료</li>
+            </ul>
+        </li>
+    </ul>
