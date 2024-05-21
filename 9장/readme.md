@@ -40,8 +40,8 @@
         <li>
             <strong>비정상종료(abnormal termination)</strong>
             <ul>
-                <li><strong>abort() </strong> 프로세스에SIGABRT 시그널을 보내어 프로세스를비정상적으로종료</li>
-                <li>시그널에의한종료</li>
+                <li><strong>abort() </strong> 프로세스에SIGABRT 시그널을 보내어 프로세스를 비정상적으로 종료</li>
+                <li>시그널에 의한 종료</li>
             </ul>
         </li>
     </ul>
