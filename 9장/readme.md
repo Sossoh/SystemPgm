@@ -20,3 +20,5 @@
 
 <h1>100초동안 기다리기</h1><br>
 <img width="410" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/971de452-03a0-475e-a9d6-750a79e03776">
+<h1>포트넘버</h1><br>
+<img width="329" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/c5eedb5e-be61-417f-a000-f5bc28e129dc">
