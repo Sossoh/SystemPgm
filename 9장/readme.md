@@ -24,5 +24,6 @@
 <img width="329" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/c5eedb5e-be61-417f-a000-f5bc28e129dc">
 <br>
 <h4>프로세스들은 다 뒤에 & 붙여주면 된다 ! </h4><br>
-![Uploading image.png…]()
+<img width="416" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/f92b2f2d-fba7-4984-8c3f-b7c5903a9510">
+
 
