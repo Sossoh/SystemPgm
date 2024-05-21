@@ -41,7 +41,6 @@
         <li><strong>공유 메모리 (Shared Memory)</strong>: 두 프로세스가 동일한 메모리 영역을 공유하여 데이터를 주고받는 방법.</li>
         <li><strong>소켓 (Sockets)</strong>: 네트워크를 통해 서로 다른 시스템에 있는 프로세스 간 통신에 사용.</li>
     </ul>
-
     <h2>문제점</h2>
     <ul>
         <li>
