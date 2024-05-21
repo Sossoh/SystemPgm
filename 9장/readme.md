@@ -23,4 +23,6 @@
 <h1>포트넘버</h1><br>
 <img width="329" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/c5eedb5e-be61-417f-a000-f5bc28e129dc">
 <br>
-<h4>프로세스들은 다 뒤에 & 붙여주면 된다 ! </h4>
+<h4>프로세스들은 다 뒤에 & 붙여주면 된다 ! </h4><br>
+![Uploading image.png…]()
+
