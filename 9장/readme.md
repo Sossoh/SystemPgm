@@ -22,3 +22,5 @@
 <img width="410" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/971de452-03a0-475e-a9d6-750a79e03776">
 <h1>포트넘버</h1><br>
 <img width="329" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/c5eedb5e-be61-417f-a000-f5bc28e129dc">
+<br>
+<h3>프로세스들은 다 뒤에 & 붙여주면 된다 ! </h3>
