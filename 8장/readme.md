@@ -81,3 +81,8 @@
             </ul>
         </li>
     </ul>
+
+
+<h1>scanfex.c</h1><br>
+<img width="287" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/4f7d09f1-1c43-4c08-b654-5578c7437fe7">
+
