@@ -11,6 +11,9 @@
                     <ul>
                         <li><strong>공유 잠금 (Shared Lock)</strong>: 여러 프로세스가 파일을 읽을 수 있지만 쓸 수는 없음.</li>
                         <li><strong>배타 잠금 (Exclusive Lock)</strong>: 한 프로세스만 파일에 읽기와 쓰기를 모두 수행할 수 있음.</li>
+                        <br>
+                        <img width="567" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/bc71c62c-e562-467a-90d7-4928a777d28f">
+<br>
                     </ul>
                 </li>
             </ul>
