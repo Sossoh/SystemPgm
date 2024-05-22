@@ -81,7 +81,11 @@
             </ul>
         </li>
     </ul>
-
+     <strong>강제잠금(mandatory locking) 하는 방법 </strong><br>
+<img width="442" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/da5fdccc-cfea-443d-992c-78ccdead6331">
+<br>
+<img width="463" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/dd442795-77d6-4cd3-ab29-e3dc68846c0a">
+<br>
 
 <h1>scanfex.c</h1><br>
 <img width="287" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/4f7d09f1-1c43-4c08-b654-5578c7437fe7">
