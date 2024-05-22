@@ -17,6 +17,63 @@
             </ul>
         </li>
     </ul>
+<br>
+<img width="320" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/a58943d5-d5d7-447b-b537-6729c9d6f064">
+<br>
+
+ <h2>파일 열기</h2>
+    <ul>
+        <li>
+            <strong>파일을 열기 위해서는</strong>
+            <ul>
+                <li>반드시 먼저 파일 열기(fopen)을 해야한다.</li>
+                <li>파일 열기를 하면<strong>FILE 구조체에 대한 포인터</strong>가 리턴되며 </li>
+                <li><strong>FILE 포인터</strong>는 열린 파일을 나타낸다.</li>
+            </ul>
+        </li>
+        <li>
+            <strong>함수 fopen() </strong>
+            <ul>
+                <li>FILE *fopen(const char *filename, const char *mode); </li>
+                <li> const char *filename: 파일명에 대한 포인터</li>
+                 <li>const char *mode: 모드로 파일을 여는 형식</li>
+            </ul>
+        </li>
+    </ul>
+<img width="412" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/936e3007-656a-49d3-9f23-a2fecfa5bef2">
+<br>
+<h2>FILE 구조체</h2>
+    <ul>
+        <li>
+            <strong>파일 관련 시스템 호출</strong>
+            <ul>
+                <li>파일디스크립터(file descriptor)</li>
+            </ul>
+        </li>
+        <li>
+            <strong>C 표준 입출력함수</strong>
+            <ul>
+                <li>open( ) 함수로 파일을 열면  <strong>FILE 포인터</strong>(FILE *)가 리턴됨</li>
+                <li>  열린 파일을 가리키는 <strong>FILE 구조체에 대한 포인</strong></li>
+                <li>FILE 포인터를 표준 입출력 함수들의 인수로 전달해야 함</li>
+                <li>#include <stdio.h></li>
+            </ul>
+        </li>
+                 <li>
+            <strong>FILE 구조</strong>
+            <ul>
+                <li>하나의 스트림에 대한 정보를 포함하는 구조체</li>
+                <li>버퍼에대한포인터, 버퍼크기</li>
+                <li>파일 디스크립터</li>
+            </ul>
+        </li>
+    </ul>
+<img width="401" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/bc23a8b4-bf7b-4fa0-a4e3-33bb3aeea8e2">
+<br>
+
+
+
+
 
 <h1>100초동안 기다리기</h1><br>
 <img width="410" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/971de452-03a0-475e-a9d6-750a79e03776">
