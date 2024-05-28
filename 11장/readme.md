@@ -1,4 +1,4 @@
-<img width="472" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/cbe981d6-a35a-4b6e-a0d9-b34b02e287c9"> <h2> 프로세스 생성</h2>
+ <h2> 프로세스 생성</h2>
     <ul>
         <li>
             <strong>  fork() 시스템 호출</strong>
