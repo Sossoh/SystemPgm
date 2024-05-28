@@ -76,7 +76,42 @@
     <br>
     <img width="362" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/063b83a4-d56d-4552-a142-e5605386f82d">
 <br>
-
+ <h2>fork/exec</h2>
+    <ul>
+        <li>
+            <strong> 보통fork() 호출 후에 exec() 호출 </strong>
+            <ul>
+                <li>새로 실행할 프로그램에 대한 정보를 arguments로 전달한다 </li>
+            </ul>
+        </li>
+      <li>
+            <strong>  exec() 호출이 성공하면 </strong>
+            <ul>
+                <li>자식 프로세스는 새로운 프로그램을 실행하게 되고 부모는 계속해서 다음코드를 실행하게 된다.</li>
+            </ul>
+      </li>
+    </ul>
+     <h2>system()</h2>
+    <ul>
+        <li>
+            <strong>자식 프로세스를 생성하고 /bin/sh로하여금 지정된 명령어를 실행시킨다</strong>
+            <ul>
+                <li>system("date > file"); </li>
+            </ul>
+        </li>
+      <li>
+            <strong>  system() 함수 구현 </strong>
+            <ul>
+                <li> fork(), exec(), waitpid() 시스템 호출을 이용</li>
+            </ul>
+      </li>
+       <li>
+            <strong> 반환값 </strong>
+            <ul>
+                <li> 명령어의종료코드 </li>
+            </ul>
+      </li>
+    </ul>
 
  <h2>fork1.c 실행</h2>
  <img width="255" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/f6ca5d48-7350-44a7-8775-c554b63f2900">
