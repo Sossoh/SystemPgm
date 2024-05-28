@@ -43,7 +43,39 @@
 <h2>fork()</h2><br>
 <img width="430" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/c71add17-23b8-4a1c-9fb3-339218af318d">
 <br>
-
+ <h2>프로그램 실행 </h2>
+    <ul>
+        <li>
+            <strong>  fork() 후 </strong>
+            <ul>
+                <li>자식 프로세스는 부모 프로세스와 똑같은 코드 실행</li>
+            </ul>
+        </li>
+      <li>
+            <strong>  자식 프로세스에게 새 프로그램 실행</strong>
+            <ul>
+                <li> exec() 시스템 호출 사용</li>
+                 <li><strong>  프로세스 내의 프로그램을 새 프로그램으로 대치</strong></li>
+            </ul>
+        </li>
+      <li>
+            <strong>  보통fork() 후에 exec( )</strong>
+        </li>
+    </ul>
+ <h2>프로그램실행: exec() </h2>
+    <ul>
+        <li>
+            <strong> 프로세스가exec() 호출을 하면,  </strong>
+            <ul>
+                <li>그 프로세스 내의 프로그램은 완전히 새로운 프로그램으로 대치/li>
+                  <li> <strong>자기대치(自己代置)</strong></li>
+              <li> 새 프로그램의 main()부터 실행이 시작된다. </li>
+            </ul>
+        </li>
+    </ul>
+    <br>
+    <img width="362" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/063b83a4-d56d-4552-a142-e5605386f82d">
+<br>
 
 
  <h2>fork1.c 실행</h2>
