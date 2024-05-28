@@ -37,3 +37,8 @@
             </ul>
         </li>
     </ul>
+
+
+
+ <h2>fork1.c</h2>
+ <img width="255" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/f6ca5d48-7350-44a7-8775-c554b63f2900">
