@@ -40,7 +40,7 @@
     <br>
     <img width="458" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/1df38cea-bfed-4a91-b967-496879227429">
 <br>
-<h>fork()</h2>
+<h2>fork()</h2><br>
 <img width="430" alt="image" src="https://github.com/Sossoh/SystemPgm/assets/128332587/c71add17-23b8-4a1c-9fb3-339218af318d">
 <br>
 
